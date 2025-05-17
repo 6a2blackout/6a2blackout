@@ -42,5 +42,5 @@
 ### 👋 Hello World!!
 
 
-https://github-readme-activity-graph.vercel.app/graph?username=6a2blackout)](https://github.com/6a2blackout/github-readme-activity-graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=6a2blackout)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
