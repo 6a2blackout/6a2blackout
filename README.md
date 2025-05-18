@@ -5,10 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a2blackout&layout=compact&langs_count=10&theme=radical" width="450" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/6a2blackout/6a2blackout/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 ---
 
