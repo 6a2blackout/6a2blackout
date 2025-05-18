@@ -37,12 +37,4 @@
 
 ---
 
-### 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6a2blackout&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
----
-
 <h2 align="center">👋 Hello World!</h2>
