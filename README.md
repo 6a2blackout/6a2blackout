@@ -40,6 +40,5 @@
 </p>
 
 ---
-<img src="assets/coder.gif" width="400px" align="center" />
 
 ### 👋 Hello World!!
