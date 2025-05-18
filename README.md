@@ -50,26 +50,3 @@
 ---
 
 <h2 align="center">👋 Hello World!</h2>
-
-<h2 align="center">👋 Hello World!</h2>
-
-<p align="center" style="font-size: 3rem; margin-top: 20px;">
-  🚀
-  <span style="
-    display: inline-block;
-    animation: rocketTakeOff 2s ease-in-out infinite alternate;
-    transform-origin: center bottom;
-  ">  
-  </span>
-</p>
-
-<style>
-@keyframes rocketTakeOff {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-30px);
-  }
-}
-</style>
