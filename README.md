@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋 !  My name is Loay :)</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6a2blackout&show_icons=true&theme=radical" alt="Loay's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a2blackout&layout=compact&langs_count=10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=6a2blackout&show_icons=true&theme=radical" alt="Loay's GitHub stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a2blackout&layout=compact&langs_count=10&theme=radical" width="450"/>
 </p>
+
+
+
 
 ---
 
