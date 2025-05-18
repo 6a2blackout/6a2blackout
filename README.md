@@ -36,15 +36,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loay-saifan-m23" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&height=50" alt="LinkedIn" style="margin: 0 15px;"/>
   </a>
   <a href="mailto:loaysaifan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&height=50" alt="Gmail" style="margin: 0 15px;"/>
   </a>
   <a href="https://discordapp.com/users/426305516042715137" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge&height=50" alt="Discord" style="margin: 0 15px;"/>
   </a>
 </p>
+
 
 ---
 
