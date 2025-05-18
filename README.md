@@ -29,6 +29,7 @@
   <a href="www.linkedin.com/in/loay-saifan-m23"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:loaysaifan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://discordapp.com/users/426305516042715137"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge" /></a>
+  <img src="assets/coder.gif" width="400px" align="center" />
 </p>
 
 ---
