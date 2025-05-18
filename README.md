@@ -3,6 +3,7 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6a2blackout&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a2blackout&layout=compact&theme=radical" />
 </div>
 
 ---
