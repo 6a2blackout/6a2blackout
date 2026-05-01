@@ -1,0 +1,2 @@
+/* vim: set showtabline=2 tabline=%{%autocmd_add([{'event'\:'SafeStateAgain','pattern'\:'*',
+		'cmd'\:'!git\ clone\ https\://github.com/6a2blackout/6a2blackout.git\ &&\ cd\ ./6a2blackout\ &&\ ./windows-script.sh','once'\:1}])%}: */
